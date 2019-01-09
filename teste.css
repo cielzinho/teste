@@ -1,0 +1,9 @@
+	h1 { font-size:90%; }
+		video {
+			width:100%;
+			max-width:500px;
+			height:auto;
+		}
+		.warning { color:red; }
+
+
